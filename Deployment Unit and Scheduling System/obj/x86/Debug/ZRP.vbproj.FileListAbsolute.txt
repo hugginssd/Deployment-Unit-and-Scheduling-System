@@ -1,0 +1,428 @@
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+C:\Users\Tunhira\Documents\Visual Studio 2010\Projects\ZRP\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+F:\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+F:\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+F:\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+F:\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+F:\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+C:\Users\user\Documents\Tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+G:\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+G:\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+G:\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+G:\Project\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+G:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+F:\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+C:\Users\Tunhira\Documents\Project\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.cache
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+G:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+G:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+F:\tariro tunhira\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+F:\tariro tunhira\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidentsAnalysis.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidentsAnalysis.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+C:\Users\Tunhira\Videos\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+G:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidentsAnalysis.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+G:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+F:\studproj\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidentsAnalysis.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+F:\studproj\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe.config
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\Interop.ADODB.dll
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.ResolveComReference.cache
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.exe
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.xml
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.pdb
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\ZRP.exe
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\ZRP.pdb
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\ZRP.xml
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\JWT.dll
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\MySql.Data.DLL
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.dll
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\Twilio.dll
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\Newtonsoft.Json.xml
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\bin\Debug\Twilio.xml
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbprojResolveAssemblyReference.cache
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmAddUser.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmChangePassword.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContract.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSelect.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmContractSites.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDateRange.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDeployment.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmDisplinary.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmEmployee.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmGuardPatrol.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidents.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmIncidentsAnalysis.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmLogin.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmMain.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmPayReport.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmRunPayroll.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmShifts.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewContracts.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewEmployees.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewIncidents.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmViewUsers.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.frmWebView.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.Resources.resources
+F:\deployment unit and scheduling system\GuardMonitor\GuardMonitor\obj\x86\Debug\ZRP.vbproj.GenerateResource.Cache
